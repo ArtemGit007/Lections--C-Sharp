@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\Работа с тектом.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\Работа с тектом.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\Работа с тектом.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\Работа с тектом.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\Работа с тектом.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\bin\Debug\net7.0\Работа с тектом.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\bin\Debug\net7.0\Работа с тектом.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\bin\Debug\net7.0\Работа с тектом.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\bin\Debug\net7.0\Работа с тектом.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\bin\Debug\net7.0\Работа с тектом.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\Работа с тектом.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\refint\Работа с тектом.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\Работа с тектом.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\Работа с тектом.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Работа с тектом\obj\Debug\net7.0\ref\Работа с тектом.dll
