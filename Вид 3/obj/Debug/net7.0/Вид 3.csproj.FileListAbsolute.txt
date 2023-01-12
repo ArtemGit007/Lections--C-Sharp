@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\Вид 3.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\Вид 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\Вид 3.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\Вид 3.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\Вид 3.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\bin\Debug\net7.0\Вид 3.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\bin\Debug\net7.0\Вид 3.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\bin\Debug\net7.0\Вид 3.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\bin\Debug\net7.0\Вид 3.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\bin\Debug\net7.0\Вид 3.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\Вид 3.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\refint\Вид 3.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\Вид 3.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\Вид 3.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Вид 3\obj\Debug\net7.0\ref\Вид 3.dll
