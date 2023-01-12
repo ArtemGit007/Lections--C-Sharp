@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\Сортировка в массиве.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\Сортировка в массиве.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\Сортировка в массиве.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\Сортировка в массиве.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\Сортировка в массиве.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\bin\Debug\net7.0\Сортировка в массиве.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\bin\Debug\net7.0\Сортировка в массиве.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\bin\Debug\net7.0\Сортировка в массиве.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\bin\Debug\net7.0\Сортировка в массиве.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\bin\Debug\net7.0\Сортировка в массиве.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\Сортировка в массиве.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\refint\Сортировка в массиве.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\Сортировка в массиве.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\Сортировка в массиве.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Сортировка в массиве\obj\Debug\net7.0\ref\Сортировка в массиве.dll
