@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\Таблица умножения.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\Таблица умножения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\Таблица умножения.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\Таблица умножения.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\Таблица умножения.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\bin\Debug\net7.0\Таблица умножения.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\bin\Debug\net7.0\Таблица умножения.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\bin\Debug\net7.0\Таблица умножения.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\bin\Debug\net7.0\Таблица умножения.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\bin\Debug\net7.0\Таблица умножения.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\Таблица умножения.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\refint\Таблица умножения.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\Таблица умножения.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\Таблица умножения.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Лекции С#\Таблица умножения\obj\Debug\net7.0\ref\Таблица умножения.dll
