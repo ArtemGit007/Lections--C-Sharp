@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\bin\Debug\net7.0\Заполнение матрицы случайными числами.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\bin\Debug\net7.0\Заполнение матрицы случайными числами.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\bin\Debug\net7.0\Заполнение матрицы случайными числами.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\bin\Debug\net7.0\Заполнение матрицы случайными числами.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\bin\Debug\net7.0\Заполнение матрицы случайными числами.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\Заполнение матрицы случайными числами.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\Заполнение матрицы случайными числами.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\Заполнение матрицы случайными числами.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\Заполнение матрицы случайными числами.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\Заполнение матрицы случайными числами.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\Заполнение матрицы случайными числами.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\refint\Заполнение матрицы случайными числами.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\Заполнение матрицы случайными числами.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\Заполнение матрицы случайными числами.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Заполнение матрицы случайными числами\obj\Debug\net7.0\ref\Заполнение матрицы случайными числами.dll

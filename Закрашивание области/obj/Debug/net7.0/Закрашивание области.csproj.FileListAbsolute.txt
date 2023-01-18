@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\bin\Debug\net7.0\Закрашивание области.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\bin\Debug\net7.0\Закрашивание области.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\bin\Debug\net7.0\Закрашивание области.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\bin\Debug\net7.0\Закрашивание области.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\bin\Debug\net7.0\Закрашивание области.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\Закрашивание области.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\Закрашивание области.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\Закрашивание области.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\Закрашивание области.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\Закрашивание области.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\Закрашивание области.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\refint\Закрашивание области.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\Закрашивание области.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\Закрашивание области.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Закрашивание области\obj\Debug\net7.0\ref\Закрашивание области.dll

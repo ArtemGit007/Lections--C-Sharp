@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\bin\Debug\net7.0\Вычисление факториала.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\bin\Debug\net7.0\Вычисление факториала.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\bin\Debug\net7.0\Вычисление факториала.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\bin\Debug\net7.0\Вычисление факториала.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\bin\Debug\net7.0\Вычисление факториала.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\Вычисление факториала.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\Вычисление факториала.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\Вычисление факториала.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\Вычисление факториала.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\Вычисление факториала.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\Вычисление факториала.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\refint\Вычисление факториала.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\Вычисление факториала.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\Вычисление факториала.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала\obj\Debug\net7.0\ref\Вычисление факториала.dll

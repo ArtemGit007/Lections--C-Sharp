@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\bin\Debug\net7.0\Вычисление факториала через double.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\bin\Debug\net7.0\Вычисление факториала через double.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\bin\Debug\net7.0\Вычисление факториала через double.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\bin\Debug\net7.0\Вычисление факториала через double.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\bin\Debug\net7.0\Вычисление факториала через double.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\Вычисление факториала через double.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\Вычисление факториала через double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\Вычисление факториала через double.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\Вычисление факториала через double.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\Вычисление факториала через double.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\Вычисление факториала через double.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\refint\Вычисление факториала через double.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\Вычисление факториала через double.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\Вычисление факториала через double.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление факториала через double\obj\Debug\net7.0\ref\Вычисление факториала через double.dll

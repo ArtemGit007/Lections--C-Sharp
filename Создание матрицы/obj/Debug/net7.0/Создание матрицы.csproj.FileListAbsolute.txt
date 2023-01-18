@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\bin\Debug\net7.0\Создание матрицы.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\bin\Debug\net7.0\Создание матрицы.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\bin\Debug\net7.0\Создание матрицы.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\bin\Debug\net7.0\Создание матрицы.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\bin\Debug\net7.0\Создание матрицы.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\Создание матрицы.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\Создание матрицы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\Создание матрицы.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\Создание матрицы.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\Создание матрицы.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\Создание матрицы.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\refint\Создание матрицы.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\Создание матрицы.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\Создание матрицы.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Создание матрицы\obj\Debug\net7.0\ref\Создание матрицы.dll

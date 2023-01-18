@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\bin\Debug\net7.0\Вычисление чисел Фибоначи.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\bin\Debug\net7.0\Вычисление чисел Фибоначи.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\bin\Debug\net7.0\Вычисление чисел Фибоначи.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\bin\Debug\net7.0\Вычисление чисел Фибоначи.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\bin\Debug\net7.0\Вычисление чисел Фибоначи.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\Вычисление чисел Фибоначи.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\Вычисление чисел Фибоначи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\Вычисление чисел Фибоначи.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\Вычисление чисел Фибоначи.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\Вычисление чисел Фибоначи.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\Вычисление чисел Фибоначи.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\refint\Вычисление чисел Фибоначи.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\Вычисление чисел Фибоначи.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\Вычисление чисел Фибоначи.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Lections C#\Lections-C-Sharp\Вычисление чисел Фибоначи\obj\Debug\net7.0\ref\Вычисление чисел Фибоначи.dll
